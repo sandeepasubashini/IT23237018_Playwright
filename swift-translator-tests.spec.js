@@ -25,7 +25,7 @@ const TEST_DATA = {
       input: 'mama iskoolee inne',
       expected: 'මම ඉස්කෝලේ ඉන්නේ',
       category: 'Daily language usage',
-      grammar: ' sentence',
+      grammar: 'Simple sentence',
       length: 'S'
     },
     {
